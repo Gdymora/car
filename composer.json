@@ -1,5 +1,6 @@
 {
-    "name": "resintegra/car", 
+    "name": "resintegra/car",
+    "version": "1.0.0",	
     "description": "A PHP lesson itea PHP",
     "keywords": [
         "itea",
