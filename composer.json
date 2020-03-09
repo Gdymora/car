@@ -1,0 +1,26 @@
+{
+    "name": "resintegra/car", 
+    "description": "A PHP lesson itea PHP",
+    "keywords": [
+        "itea",
+        "lesson-2",
+        "car"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex Petroff"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.5 || ^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Car\\": "src/"
+        }
+    }
+}
