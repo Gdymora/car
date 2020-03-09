@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": ">=7.0",
-		"resintegra/car": "*"
+		"resintegra/car": "@dev"
     },
     "require-dev": {
         "phpunit/phpunit": "^6.5 || ^7.0"
